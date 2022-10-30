@@ -1,2 +1,0 @@
-# Sachithra
-AI
